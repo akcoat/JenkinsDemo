@@ -56,7 +56,7 @@
                     </resources>
                     <serverId>docker-aliyun</serverId>
                     <registryUrl>${docker.repostory}</registryUrl>
-                    <pushImage>true</pushImage>
+<!--                    <pushImage>true</pushImage>-->
                 </configuration>
             </plugin>
         </plugins>
